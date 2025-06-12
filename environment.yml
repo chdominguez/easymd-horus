@@ -1,0 +1,21 @@
+# This is a slightly modified environment for running easy-md using Horus
+
+name: easymd
+channels:
+- conda-forge
+- defaults
+
+dependencies:
+- python=3.9
+- openmm=8.0.0
+- pdbfixer
+- mdanalysis
+- openff-toolkit
+- pandas
+- pdbfixer
+- matplotlib
+- pip
+- openff
+- pip:
+  - rdkit
+  - pyyaml

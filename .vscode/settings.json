@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "easy-md/Include",
+        "easy-md/deps/lib/python3.9/site-packages"
+    ]
+}

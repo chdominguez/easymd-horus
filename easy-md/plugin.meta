@@ -1,0 +1,16 @@
+{
+    "id": "easymd",
+    "name": "Easy-MD",
+    "description": "Unofficial Easy-MD plugin for Horus.",
+    "author": "Christian Dominguez",
+    "version": "0.0.1",
+    "pluginFile": "plugin.py",
+    "minHorusVersion": "0.6.2",
+    "maxHorusVersion": null,
+    "platforms": [
+        "universal"
+    ],
+    "externalURL": "https://github.com/degrado-lab/easyMD?utm_source=chatgpt.com",
+    "dependencies": [],
+    "pluginRequires": []
+}
